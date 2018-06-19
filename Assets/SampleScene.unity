@@ -222,7 +222,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 432f4eb58e6613a4caa2ae71b0d7e094, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9c4ccbde583b5944b8b4fb8b325e6743, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.527
   m_Pitch: 1
@@ -421,6 +421,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 1047422860415906, guid: e1dec5564a3bfe34e817d978507471be, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e1dec5564a3bfe34e817d978507471be, type: 2}
   m_IsPrefabParent: 0
@@ -634,6 +638,10 @@ Prefab:
     - target: {fileID: 4758355631505012, guid: e1f276c9c8d71404e9adf223c90e374d, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 199.681
+      objectReference: {fileID: 0}
+    - target: {fileID: 1598014154115268, guid: e1f276c9c8d71404e9adf223c90e374d, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e1f276c9c8d71404e9adf223c90e374d, type: 2}
