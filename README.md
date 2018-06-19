@@ -1,2 +1,2 @@
 # Audio-Visual
-$ git status
+git clone git://github.com/VenTuraa/Audio-Visual.git
